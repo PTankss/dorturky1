@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
-  "version": "3.5.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "name": "𝙳𝚘𝚛𝚃𝚞𝚛𝚔𝚢 𝚅𝟷",
+  "version": "𝟷.𝟶.𝟶",
+  "description": "𝚃𝚑𝚎 𝚅𝟸 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚌𝚘𝚘𝚕 𝚊𝚜𝚏.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
